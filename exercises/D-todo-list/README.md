@@ -8,7 +8,7 @@ const todos = [
     todo: "Water the plants"
   },
   {
-    todo: "Wash the car"
+  todo: "Wash the car"
   }
 ];
 ```
